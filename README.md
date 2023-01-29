@@ -10,6 +10,8 @@
 ## What it does
 * Our team has approached to design a solution where the customer himself chooses the farmer available in their nearest farm, places an order and a delivery partner delivers farm products directly to the doorsteps of customers at a reasonable price and the money will be transferred directly to the farmer's account. 
 
+<br>![Screenshot (612)](https://user-images.githubusercontent.com/79893783/200157050-6a819678-9524-4636-8486-b4383d50fe0a.png) width="400" height="300" <br>
+
 ## How we built it
 * Figma: We started with a basic prototype of our entire idea. We built our mobile and web application prototype in figma. <br/>
 * Velo by Wix: To save our time we developed and hosted our website in wix. 

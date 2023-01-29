@@ -19,6 +19,28 @@
 
 ## Buisiness Model
 
+### **Understanding the Stakeholders**
+
+For research work, the users were divided into three major segments according to the probable use cases of the application. Those are:
+
+- Farmers
+- Customer
+- Delivery partner
+
+**Farmers**
+
+The farmer keeps the stock of all his production. Here the complete decision-making for the prices of goods is in his hands. Monthly or yearly Subscription based entry in Farmito app.  Order will be placed by the customer to his preferred farmer/ Farm directly through famito. Once the order is accepted by the farmer, a delivery partner is assigned. A farmer sends the product via delivery partner and once the delivery process is completed customer pays directly to farmer's account.   
+
+**Customer**
+
+Farmito follows the nearest farm/farmer matching algorithm. It will give them a variety of options from which farmer they want to purchase the goods from, what kind of farm product they want to purchase, etc. Based on rating or choice they can place an order. At the end of service, they can rate the farmer. Our recommended search engine will take this valuable feedback to give the best user experience. 
+
+**Delivery partner**
+
+Based on the revenue collected from the farmers through  Farmito app subscription model, Delivery partners will be paid based on a number of deliveries/rides they provide.   
+
+**Note**: We will try to generate revenue from other sources like marketing or partnership with cold storage.
+
 ## Challenges we ran into
 * As a front-end developed I usually develop my websites in React.js, for the first time I used Velo by wix to design the website, initially it was challenging to understand it's interface.
 * Faced challenging to integrate the embedded iframe code in wix, infact could not fix it hence had to design it from scratch.

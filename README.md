@@ -18,6 +18,8 @@
 * Machine Learning: Location based Recommendation system.(K-mean clustering algorithm is used)
 
 ## Buisiness Model
+<br>![Screenshot (612)](https://github.com/prachi237/Farmito/blob/master/rev.png) width="400" height="300" <br>
+
 
 ### **Understanding the Stakeholders**
 

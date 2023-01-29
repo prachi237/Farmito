@@ -67,3 +67,9 @@ Based on the revenue collected from the farmers through  Farmito app subscriptio
 * We will add more functionalities to it so as to make it a real time application.
 * We would like to develop mobile application using Flutter.
 * GPI system is to added 
+
+
+
+<br>![Screenshot (612)](https://github.com/prachi237/Farmito/blob/master/Screenshot%20(691).png) width="400" height="300" <br>
+<br>![Screenshot (612)](https://github.com/prachi237/Farmito/blob/master/Screenshot%20(692).png) width="400" height="300" <br>
+<br>![Screenshot (612)](https://github.com/prachi237/Farmito/blob/master/Screenshot%20(693).png) width="400" height="300" <br>
